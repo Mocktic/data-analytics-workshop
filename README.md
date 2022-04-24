@@ -35,3 +35,8 @@ git push -u origin main
 ```
 ### Step 5: Generate a pull request.
 To generate a pull request 
+1. Open the forked repository on GitHub
+2. Click on Create Pull Request
+3. Submit your Pull Request
+
+### Done We'll review your PR and merge for the evalution
