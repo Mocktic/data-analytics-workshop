@@ -1,10 +1,13 @@
 # data-analytics-workshop
 ## How to Submit your project to this repository?
-To submit your project into this repository follow the below given steps-
+### Prerequisites-
+- Download and Install Git SCM from [here](https://git-scm.com/downloads)
+ 
+## To submit your project into this repository follow the below steps-
 ### Step 1: Fork this repository.
 
 ### Step 2: Clone this Repository.
-Open command prompt/terminal and open your desired working directory
+Open command prompt/terminal and open your desired working directory and use the following command to clone the repository
 ```
 git clone {url of the forked repository}
 ```
